@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kiran Yadav
-- 👀 I’m interested in Front End Web-Develoopment
+- 👀 I’m interested in Front-End Web Develoopment
 - 🌱 I’m currently learning Java Script
 
 <!---
