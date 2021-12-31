@@ -5,7 +5,7 @@
 
 - My web resume with html/css/js-->  https://kiran-512.github.io/resume/
 
-- responsive-e-commerence-website --> https://kiran-512.github.io/First-Project-E-commerce-website/
+- responsive-e-commerce-website --> https://kiran-512.github.io/First-Project-E-commerce-website/
 <!---
 Kiran-512/Kiran-512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
