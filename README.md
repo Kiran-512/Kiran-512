@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiran Yadav
 - 👀 I’m learning Front-End Web Development
-- 🌱 I have learnt html5 and CSS3 and currently I'm learning Java Script
+- 🌱 I have learnt html5, CSS3 and bootstrap and currently I'm learning Java Script
 - Animation with html and CSS--> https://kiran-512.github.io/Glower-loading-ring-animation/
 
 - My web resume with html/css/js-->  https://kiran-512.github.io/resume/
