@@ -2,7 +2,7 @@
 - 👀 I’m learning Front-End Web Development
 - 🌱 I have learnt html5, CSS3 and bootstrap and currently I'm learning Java Script
 
-Happy New Year, 2022 !! //kiran-512.github.io/Happy-New-Year-/
+Happy New Year, 2022 !! https://kiran-512.github.io/Happy-New-Year-/
 
 - Animation with html and CSS--> https://kiran-512.github.io/Glower-loading-ring-animation/
 
