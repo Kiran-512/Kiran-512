@@ -4,6 +4,8 @@
 
 - Happy New Year, 2022 !! https://kiran-512.github.io/Happy-New-Year-/
 
+- Time is precious, check it here -- https://kiran-512.github.io/Clock/ 
+
 - Animation with html and CSS--> https://kiran-512.github.io/Glower-loading-ring-animation/
 
 - My web resume with html/css/js-->  https://kiran-512.github.io/resume/
