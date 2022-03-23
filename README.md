@@ -1,4 +1,5 @@
-<ing src="">- 👋 Hi, I’m Kiran Yadav
+<ing src="">
+- 👋 Hi, I’m Kiran Yadav
 - 👀 I’m learning Front-End Web Development
 - 🌱 I have learnt html5, CSS3 and bootstrap and currently I'm learning Java Script
 
