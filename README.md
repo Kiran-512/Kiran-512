@@ -1,8 +1,8 @@
 <ing src="">  👋 Hi, I’m Kiran Yadav
  
-  👀 I’m learning Front-End Web Development
+  👀 I’m aspiring full stack developer
  
-  🌱 I have learnt HTML5, CSS3 and bootstrap and currently I'm learning JavaScript
+  🌱 I'm exploring java in depth
 
 Happy New Year, 2022 !! https://kiran-512.github.io/Happy-New-Year-/
 
