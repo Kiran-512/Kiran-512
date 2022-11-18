@@ -1,8 +1,6 @@
 <ing src="">  👋 Hi, I’m Kiran Yadav
  
   👀 I’m aspiring full stack developer
- 
-  🌱 I'm exploring java in depth
 
 Happy New Year, 2022 !! https://kiran-512.github.io/Happy-New-Year-/
 
