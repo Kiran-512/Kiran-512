@@ -1,6 +1,6 @@
 <ing src="">  👋 Hi, I’m Kiran Yadav
  
-  👀 I’m aspiring full stack developer
+  👀 I’m a full stack software engineer, currently using .net tech stack for the development
 
 Happy New Year, 2022 !! https://kiran-512.github.io/Happy-New-Year-/
 
